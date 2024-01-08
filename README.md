@@ -14,7 +14,7 @@ Multiclass Image Classification Problem
 
 ### Results Summary
 
-- **Best Model:** MobileNetV2 based model_30_39.h5
+- **Best Model:** MobileNetV2 based model_30_39.h5(3_Model/Models/model_30_39_175_1.h5)
 - **Evaluation Metric:** Weighted Average F1-Score, Macro Average F1-Score
 - **Result:** 97%, 99%
 
@@ -23,8 +23,8 @@ Multiclass Image Classification Problem
 1. **[Literature Review](0_LiteratureReview/LiteratureReview.md)**
 2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
 3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation.ipynb)**
+5. **[Presentation](4_Presentation/Phytoplankton_Image_Classification.pdf)**
 
 ## Cover Image
 
