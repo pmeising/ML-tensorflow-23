@@ -14,9 +14,9 @@ Multiclass Image Classification Problem
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** MobileNetV2 based model_30_39.h5
+- **Evaluation Metric:** Weighted Average F1-Score, Macro Average F1-Score
+- **Result:** 97%, 99%
 
 ## Documentation
 
