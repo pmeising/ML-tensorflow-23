@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/pmeising/ML-tensorflow-23/tree/main?tab=readme-ov-file]
+[Link to this repository](https://github.com/pmeising/ML-tensorflow-23/tree/main?tab=readme-ov-file)
 
 ## Description
 
