@@ -6,7 +6,7 @@
 
 ## Description
 
-This project aims to develop a sophisticated Convolutional Neural Network (CNN) for the classification of a diverse set of phytoplankton, leveraging a dataset of approximately 65,000 labeled images spanning 50 distinct classes. The objective is to refine the accuracy of phytoplankton classification, enhancing understanding of their distribution and ecological roles. By employing advanced machine learning techniques and a substantial image dataset, the project seeks to overcome challenges in species identification due to morphological similarities
+This project aims to develop a sophisticated Convolutional Neural Network (CNN) for the classification of a diverse set of phytoplankton, leveraging a dataset of approximately 63,000 labeled images spanning 50 distinct classes. The objective is to refine the accuracy of phytoplankton classification, enhancing understanding of their distribution and ecological roles. By employing advanced machine learning techniques and a substantial image dataset, the project seeks to overcome challenges in species identification due to morphological similarities
 
 ### Task Type
 
