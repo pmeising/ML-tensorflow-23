@@ -29,3 +29,8 @@ Multiclass Image Classification Problem
 ## Cover Image
 
 ![Project Cover Image](CoverImage/Cover_image_phytoplankton.png)
+
+
+##Version 2
+
+In version 2 I train a model on a MobileNetV2 CNN and thereby extract the features of the different Phytoplankton. Instead of the blind split that was done in the previous attempt of version 1, here the split is made based on the extractable features. The goal is to train a model that is capable of identifying the most classes possible out of the 50. The model selected 30 out of the 50 classes and reaches an average weighted F1 Score of 94%.
